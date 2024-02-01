@@ -1,0 +1,14 @@
+d:\code\csharp\ChangeWallPaper\bin\Debug\net8.0\ChangeWallPaper.exe
+d:\code\csharp\ChangeWallPaper\bin\Debug\net8.0\ChangeWallPaper.deps.json
+d:\code\csharp\ChangeWallPaper\bin\Debug\net8.0\ChangeWallPaper.runtimeconfig.json
+d:\code\csharp\ChangeWallPaper\bin\Debug\net8.0\ChangeWallPaper.dll
+d:\code\csharp\ChangeWallPaper\bin\Debug\net8.0\ChangeWallPaper.pdb
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.GeneratedMSBuildEditorConfig.editorconfig
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.AssemblyInfoInputs.cache
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.AssemblyInfo.cs
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.csproj.CoreCompileInputs.cache
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.dll
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\refint\ChangeWallPaper.dll
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.pdb
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.genruntimeconfig.cache
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ref\ChangeWallPaper.dll

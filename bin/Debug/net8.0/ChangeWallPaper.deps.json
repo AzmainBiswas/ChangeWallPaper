@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ChangeWallPaper/1.0.0": {
+        "runtime": {
+          "ChangeWallPaper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChangeWallPaper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
