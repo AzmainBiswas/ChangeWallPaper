@@ -12,3 +12,4 @@ d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\refint\ChangeWallPaper.dll
 d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.pdb
 d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.genruntimeconfig.cache
 d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ref\ChangeWallPaper.dll
+d:\code\csharp\ChangeWallPaper\obj\Debug\net8.0\ChangeWallPaper.sourcelink.json

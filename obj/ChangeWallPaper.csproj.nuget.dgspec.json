@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj": {}
+    "D:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj": {}
   },
   "projects": {
-    "d:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj": {
+    "D:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj",
+        "projectUniqueName": "D:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj",
         "projectName": "ChangeWallPaper",
-        "projectPath": "d:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj",
+        "projectPath": "D:\\code\\csharp\\ChangeWallPaper\\ChangeWallPaper.csproj",
         "packagesPath": "C:\\Users\\azmain\\.nuget\\packages\\",
-        "outputPath": "d:\\code\\csharp\\ChangeWallPaper\\obj\\",
+        "outputPath": "D:\\code\\csharp\\ChangeWallPaper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azmain\\AppData\\Roaming\\NuGet\\NuGet.Config",

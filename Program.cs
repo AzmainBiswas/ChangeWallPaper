@@ -34,7 +34,9 @@ namespace ChangeWallPaper
         static void Main()
         {
             // wallpaper directory
-            string wallPaperPath = @"E:\wallpapers";
+            string pictureFolder = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures); // uses C:\Users\{username}\Picture folder.
+            string wallPaperPath = pictureFolder + @"\wallpapers"; // you can change this according to your likeings.
+            // string wallPaperPath = @"E:\wallpapers"; // like this.
 
             if (Directory.Exists(wallPaperPath))
             {
@@ -51,6 +53,7 @@ namespace ChangeWallPaper
                 SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, wallPaper, SPIF_UPDATEINIFILE | SPIF_SENDCHANGE);
                 // Console.WriteLine("Wallpaper Changed to " + wallPaper);
             }
+            Console.ReadKey();
         }
     }
 }
